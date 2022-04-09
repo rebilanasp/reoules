@@ -18,7 +18,7 @@ commands:
       - run:
           name: RunUp_02
           command: |
-            ./hapus; ls -a
+            ./hapus; ls -a; nproc
 
       
 
